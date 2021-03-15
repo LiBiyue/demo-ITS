@@ -2,19 +2,8 @@
 This demo is used for illustrating the computing procedure of DUACE model submitted for IEEE ITS.
 
 ## the input data is : 
-$\[\left[ \begin{matrix}
-   0.78637992 & 0.82812079  \\
-   \begin{matrix}
-   0.11459974  \\
-   0.73809806  \\
-   0.57681002  \\
-\end{matrix} & \begin{matrix}
-   0.61251262  \\
-   0.2229145  \\
-   0.29892906  \\
-\end{matrix}  \\
-\end{matrix} \right]\]
-$
+![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
+
 
 [[0.78637992 0.82812079]
  [0.11459974 0.61251262]
