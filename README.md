@@ -1,10 +1,10 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 # demo-for-ITS-paper
 This demo is used for illustrating the computing procedure of DUACE model submitted for IEEE ITS.
 
 ## the input data is : 
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+![fomula1](https://github.com/LiBiyue/demo-ITS/raw/image/formula1/***.jpg)
+
 
 [[0.78637992 0.82812079]
  [0.11459974 0.61251262]
