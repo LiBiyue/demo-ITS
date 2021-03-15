@@ -3,7 +3,7 @@
 This demo is used for illustrating the computing procedure of DUACE model submitted for IEEE ITS.
 
 ## the input data is : 
-![fomula1](https://github.com/LiBiyue/demo-ITS/raw/master/image/formula1.jpg)
+![fomula1](https://github.com/LiBiyue/demo-ITS/tree/main/image/formula1.jpg)
 
 
 [[0.78637992 0.82812079]
