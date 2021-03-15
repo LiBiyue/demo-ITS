@@ -2,7 +2,7 @@
 This demo is used for illustrating the computing procedure of DUACE model submitted for IEEE ITS.
 
 ## the input data is : 
-![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
+<img src="https://latex.codecogs.com/png.latex? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
 
 
 [[0.78637992 0.82812079]
