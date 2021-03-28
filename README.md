@@ -2,10 +2,13 @@
 # demo-for-ITS-paper
 This demo is used for illustrating the computing procedure of DUACE model submitted for IEEE ITS.
 
+## the demonstration of algorithm is :
+![fomula1](https://github.com/LiBiyue/demo-ITS/blob/main/image/algorithm%20demonstration.png)
+
+## the illustration of result is :
+![fomula1](https://github.com/LiBiyue/demo-ITS/blob/main/image/result%20illustration.png)
+
 ## the input data is : 
-![fomula1](https://github.com/LiBiyue/demo-ITS/tree/main/image/formula1.jpg)
-
-
 [[0.78637992 0.82812079]
  [0.11459974 0.61251262]
  [0.73809806 0.2229145 ]
