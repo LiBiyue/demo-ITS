@@ -7,6 +7,7 @@ This demo is used for illustrating the computing procedure of DUACE model submit
 
 ## the illustration of result is :
 ![fomula1](https://github.com/LiBiyue/demo-ITS/blob/main/image/result%20illustration.png)
+The original data distribute loosely in high-dimensional space. There exits a higher probability of misclassification if clustering is conducted on high-dimensional data. While the latent representations, which are extracted from original data through the trained Autoencoder, have a dense distribution. Therefore, clustering on latent representations has a promising accuracy.
 
 ## the input data is : 
 [[0.78637992 0.82812079]
